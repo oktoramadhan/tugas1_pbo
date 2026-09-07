@@ -1,2 +1,8 @@
 # tugas1_pbo
-Solving Class Problem
+
+### NAMA: Okto Ramadhan
+### NIM: L0125059
+
+### [Lihat Penjelasan](https://youtu.be/dyjevpXBKLE)
+
+ 
